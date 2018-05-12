@@ -1,0 +1,28 @@
+_repo: Girls-of-Highland-HallFurther-Adventures-of-the-Dandelion-Cottagers_40403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rankin, Carroll Watson
+    birthdate: 1870
+    gutenberg_agent_id: '38085'
+    url: http://www.gutenberg.org/2009/agents/38085
+description: ''
+gutenberg_issued: '2012-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40403'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Student adjustment -- Juvenile fiction'
+- !lcsh 'Teachers -- Juvenile fiction'
+title: 'Girls of Highland Hall: Further Adventures of the Dandelion Cottagers'
+url: http://www.gutenberg.org/ebooks/40403
